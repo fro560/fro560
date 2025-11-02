@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fro560
-- 👀 I’m interested in web developement in python/django
-- 🌱 I’m currently learning web developemnt in python/django 
-- 💞️ I’m looking to collaborate on web developement and django.
+- 👀 I’m interested in creating web apps using ReactJs and Nodejs.
 
 
 <!---
